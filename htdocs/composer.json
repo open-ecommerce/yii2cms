@@ -1,7 +1,7 @@
 {
-    "name": "noumo/easyii-shop",
-    "description": "Easyiicms simple shop with examples of all modules",
-    "keywords": ["yii2", "cms", "control panel", "admin", "easy", "shop"],
+    "name": "open-ecommerce/yii2cms",
+    "description": "Prouve of concept based in Easyiicms",
+    "keywords": ["yii2", "cms", "control panel", "admin", "easy"],
     "homepage": "http://easyiicms.com",
     "type": "project",
     "license": "GNU GPL V3",
