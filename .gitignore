@@ -11,6 +11,3 @@ nbproject
 .buildpath
 .project
 .settings
-
-# composer vendor dir
-htdocs/vendor/
