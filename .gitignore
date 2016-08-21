@@ -1,5 +1,6 @@
 # config to avoid overides
 htdocs/app/config/db.php
+htdocs/.htaccess
 
 # phpstorm project files
 .idea
